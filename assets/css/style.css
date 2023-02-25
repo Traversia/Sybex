@@ -4075,7 +4075,7 @@ div#mCSB_1_container{
 .footer-top .about-widget .text p{
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: white;
   font-weight: 500;
   margin-bottom: 15px;
 }
@@ -4137,7 +4137,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: white;
   font-weight: 500;
 }
 
@@ -4155,7 +4155,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: white;
   font-weight: 500;
 }
 
@@ -4205,14 +4205,14 @@ div#mCSB_1_container{
   padding: 10px 0px;
   padding-right: 160px;
   font-size: 17px;
-  color: #ae979f;
+  color: white;
   font-weight: 500;
   background: transparent;
   transition: all 500ms ease;
 }
 
 .main-footer .footer-subscribe .subscribe-form .form-group input::-webkit-input-placeholder{
-  color:#ae979f;
+  color:white;
 }
 
 .main-footer .footer-subscribe .subscribe-form .form-group button{
@@ -4255,12 +4255,12 @@ div#mCSB_1_container{
 .footer-bottom .copyright p{
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: white;
   font-weight: 500;
 }
 
 .footer-bottom .copyright p a{
-  color: #ae979f;
+  color: white;
 }
 
 .footer-bottom .copyright p a:hover{
@@ -4281,7 +4281,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: white;
   font-weight: 500;
 }
 
@@ -4353,7 +4353,7 @@ div#mCSB_1_container{
 }
 
 .main-header.style-two .menu-right-content .search-btn button{
-  color: rgba(255,255,255,0.6);
+  color: white;
 }
 
 .main-header.style-two .menu-right-content .theme-btn-one{
@@ -4917,7 +4917,7 @@ div#mCSB_1_container{
   font-size: 17px;
   line-height: 28px;
   font-weight: 500;
-  color: #ae979f;
+  color: white;
   margin-bottom: 34px;
 }
 
@@ -4927,7 +4927,7 @@ div#mCSB_1_container{
   font-size: 17px;
   line-height: 28px;
   font-weight: 500;
-  color: #ae979f;
+  color: white;
   margin-bottom: 8px;
 }
 
@@ -4938,7 +4938,7 @@ div#mCSB_1_container{
 .service-style-two .inner-container .single-item .list li a{
   position: relative;
   display: inline-block;
-  color: #ae979f;
+  color: white;
 }
 
 .service-style-two .inner-container .single-item .list li a:hover{
@@ -5007,7 +5007,7 @@ div#mCSB_1_container{
   font-size: 17px;
   line-height: 28px;
   font-weight: 500;
-  color: #ae979f;
+  color: white;
 }
 
 .service-style-two .inner-container .single-item .text a{
@@ -5452,7 +5452,7 @@ div#mCSB_1_container{
 }
 
 .chooseus-section .sec-title p{
-  color: #ae979f;
+  color: white;
 }
 
 .chooseus-block-one{
@@ -5519,7 +5519,7 @@ div#mCSB_1_container{
   font-size: 17px;
   line-height: 28px;
   font-weight: 500;
-  color: rgba(255,255,255,0.6);
+  color: white;
   margin-bottom: 24px;
 }
 
@@ -5530,7 +5530,7 @@ div#mCSB_1_container{
   font-family: 'Nunito Sans', sans-serif;
   line-height: 24px;
   font-weight: 700;
-  color: rgba(255,255,255,0.6);
+  color: white;
   text-transform: uppercase;
 }
 
@@ -6257,7 +6257,7 @@ div#mCSB_1_container{
   background: transparent;
   font-size: 17px;
   font-weight: 500;
-  color: #ae979f;
+  color: white;
   border-radius: 5px 5px 0px 0px;
   padding: 10px 20px;
   transition: all 500ms ease;
@@ -6268,7 +6268,7 @@ div#mCSB_1_container{
 }
 
 .main-footer .about-widget .subscribe-form .form-group input::-webkit-input-placeholder{
-  color:#ae979f;
+  color:white;
 }
 
 .main-footer .about-widget .subscribe-form .form-group button{
@@ -6446,19 +6446,19 @@ div#mCSB_1_container{
   margin-right: 0px;
 }
 
-.footer-bottom .social-links li a{
-  position: relative;
-  display: inline-block;
-  font-size: 14px;
-  color: #ae979f;
-  width: 45px;
-  height: 45px;
-  line-height: 45px;
-  text-align: center;
-  background: #88bf00;
-  border: 1px solid rgba(255,255,255,0.1);
-  border-radius: 50%;
-}
+    .footer-bottom .social-links li a {
+        position: relative;
+        display: inline-block;
+        font-size: 14px;
+        color: white;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        text-align: center;
+        background: #88bf00;
+        border: 1px solid rgba(255,255,255,0.1);
+        border-radius: 50%;
+    }
 
 .footer-bottom .social-links li a:hover{
   color: #fff;
@@ -6976,7 +6976,7 @@ div#mCSB_1_container{
 }
 
 .service-section .sec-title.light p{
-  color: #ae979f;
+  color: white;
 }
 
 .service-section.alternet-2 .pattern-layer{
@@ -7596,7 +7596,7 @@ div#mCSB_1_container{
 .main-footer .logo-widget .text p{
   font-size: 17px;
   line-height: 28px;
-  color: #ae979f;
+  color: white;
   font-weight: 500;
 }
 
@@ -7668,7 +7668,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 13px;
   line-height: 20px;
-  color: #ae979f;
+  color: white;
   font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 9px;
@@ -7837,7 +7837,7 @@ div#mCSB_1_container{
 }
 
 .process-style-two.alternet-2 .single-item .inner-box p{
-  color: rgba(255,255,255,0.6);
+  color: white;
 }
 
 .process-style-two.alternet-2 .single-item .inner-box .link a{
@@ -7845,7 +7845,7 @@ div#mCSB_1_container{
 }
 
 .process-style-two.alternet-2 .single-item .inner-box .link a i{
-  color: rgba(255,255,255,0.6);
+  color: white;
   transition: all 500ms ease;
 }
 
@@ -9034,7 +9034,7 @@ div#mCSB_1_container{
 .hiring-section .inner-box p{
   font-size: 17px;
   font-weight: 500;
-  color: rgba(255,255,255,0.6);
+  color: white;
   margin-bottom: 42px;
 }
 
@@ -9335,7 +9335,7 @@ div#mCSB_1_container{
   font-size: 17px;
   line-height: 28px;
   font-weight: 500;
-  color: #ae979f;
+  color: white;
   margin-bottom: 8px;
 }
 
@@ -9500,7 +9500,7 @@ div#mCSB_1_container{
 }
 
 .service-details-content .content-three .tabs-content .inner-box .text p{
-  color: #ae979f;
+  color: white;
   margin-bottom: 19px;
 }
 
@@ -9704,7 +9704,7 @@ div#mCSB_1_container{
   font-size: 12px;
   line-height: 20px;
   font-weight: 700;
-  color: #ae979f;
+  color: white;
   text-transform: uppercase;
   margin-bottom: 9px;
 }
@@ -10035,8 +10035,8 @@ div#mCSB_1_container{
 }
 
 .findjob-section .search-inner .form-group .nice-select:after{
-  border-bottom: 2px solid #ae979f;
-  border-right: 2px solid #ae979f;
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
 }
 
 .findjob-section .search-inner .form-group.message-btn{
@@ -10765,8 +10765,8 @@ div#mCSB_1_container{
 }
 
 .applynow-section .apply-form .form-group .nice-select:after{
-  border-bottom: 2px solid #ae979f;
-  border-right: 2px solid #ae979f;
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
 }
 
 .applynow-section .apply-form .form-group button{
@@ -10833,7 +10833,7 @@ div#mCSB_1_container{
   font-size: 17px;
   line-height: 28px;
   font-weight: 500;
-  color: #ae979f;
+  color: white;
   margin-bottom: 32px;
 }
 
@@ -11435,7 +11435,7 @@ div#mCSB_1_container{
   position: relative;
   display: inline-block;
   font-size: 16px;
-  color: rgba(255,255,255,0.6);
+  color: white;
   width: 40px;
   height: 40px;
   line-height: 40px;
