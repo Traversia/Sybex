@@ -1124,6 +1124,11 @@
   .video-section .video-content .pattern-layer{
     display: none;
   }
+  .list {
+    list-style: outside;
+    padding: 0px;
+    margin: 0px;
+}
 
   .service-section.alternet-2{
     padding-top: 390px;
@@ -1152,7 +1157,7 @@
   }
 
   .page-title{
-    padding-top: 100px;
+    padding-top: 160px;
   }
 
   .page-title .title-box h1{
